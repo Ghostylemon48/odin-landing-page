@@ -2,7 +2,7 @@
     /* border: 2px solid red; */
     margin: 0;
     padding: 0;
-    font-family: Roboto, sans-serif;
+    font-family: system-ui, 'Segoe UI', 'Open Sans', 'Helvetica' , sans-serif;
 }
 
 /* Header css */
@@ -113,4 +113,29 @@ a {
     width: 250px;
     font-size: 18px;
     text-align: center;
+}
+
+/* Quote section */
+
+.quote-section {
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    padding: 100px;
+    align-items: center;
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: lighter !important;
+    font-style: italic;
+    width: 800px;
+    color: #1F2937;
+}
+
+.quote-name {
+    font-weight: bold;
+    font-size: 20px;
+    width: 600px;
+    text-align: right;
 }
