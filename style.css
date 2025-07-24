@@ -143,6 +143,13 @@ a {
     justify-content: flex-end;
 }
 
+.call-background {
+    border: 2px solid #1d8608;
+    background-color: #1d8608;
+    /* justify-content: center;
+    align-items: center; */
+}
+
 .call-box {
     display: flex;
     align-items: center;
@@ -153,7 +160,7 @@ a {
     padding-block: 50px;
     margin-inline: auto;
     margin-block: 150px; 
-    background-color: #3882f6;
+    background-color: #6f068a;
     border-radius: 12px;
     flex-shrink: 1;
 }
@@ -177,7 +184,7 @@ a {
 .call-button {
     padding-block: 5px;
     padding-inline: 25px;
-    background-color: #3882f6;
+    background-color: #6f068a;
     border: 2px solid white;
     border-radius: 6px;
     color: #E5E7EB;
@@ -189,6 +196,6 @@ a {
 footer {
     text-align: center;
     padding: 40px;
-    background-color: #1F2937;
+    background-color: #6f068a;
     color: #E5E7EB;
 }
