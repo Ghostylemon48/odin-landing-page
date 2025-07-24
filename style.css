@@ -144,8 +144,8 @@ a {
 }
 
 .call-background {
-    border: 2px solid #1d8608;
-    background-color: #1d8608;
+    border: 2px solid #ffffff;
+    background-color: #ffffff;
     /* justify-content: center;
     align-items: center; */
 }
@@ -160,7 +160,7 @@ a {
     padding-block: 50px;
     margin-inline: auto;
     margin-block: 150px; 
-    background-color: #6f068a;
+    background-color: #1d8608;
     border-radius: 12px;
     flex-shrink: 1;
 }
