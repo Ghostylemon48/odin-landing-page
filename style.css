@@ -10,7 +10,7 @@
 .top {
     display: flex;
     justify-content: space-between;
-    padding-inline: 150px;
+    padding-inline: 75px;
     padding-top: 20px;
     background-color: #6f068a;
     padding-bottom: 20px;
@@ -27,6 +27,7 @@ ul {
     list-style-type: none;
     gap: 15px;
     flex-shrink: 0;
+    margin-left: 50px;
 }
 
 a {
